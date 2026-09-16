@@ -23,4 +23,4 @@ Sources checked for this revision on September 14, 2026. URLs are included for a
 
 ---
 
-[← Previous: Implementation checklist](09-implementation-checklist.md) | [Back to README](../README.md)
+[← Previous: Implementation checklist](09-implementation-checklist.md) | [Back to README](../README.md) | [Next: Adapting this guide →](11-adapting-this-guide.md)

@@ -33,6 +33,7 @@ Overall risk: **Medium to High** before hardening; **Medium or lower** for typic
 8. [Incident response for suspected Cargo compromise](docs/08-incident-response.md)
 9. [Implementation checklist](docs/09-implementation-checklist.md)
 10. [References and source notes](docs/10-references.md)
+11. [Adapting this guide to a specific wiki](docs/11-adapting-this-guide.md)
 
 See also: [CHANGELOG.md](CHANGELOG.md) for the revision history, and [source/](source/) for the original document this repo was derived from.
 
